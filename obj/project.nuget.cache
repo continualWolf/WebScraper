@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZyT+WTKsQtmcxl6m9zXMd5PvMqi3tuW0rbWNg06Cj2cviMFpbXDpcWbuLPHwf/sSlOwv4qqbspLeS2YEUO7LEw==",
+  "dgSpecHash": "DkVfpxs6OE/5R60rXPAkJQRJlo/kEKkHlARwIkkygTUTI2EC4sQJsZ1Rliao5cEQeJS23qz+x6Yi2b10X5Cw3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Benjamin\\source\\repos\\simpleWebScraper\\simpleWebScraper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benjamin\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
-    "C:\\Users\\Benjamin\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+    "C:\\Users\\Benjamin\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Benjamin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
